@@ -1,0 +1,16 @@
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Inheritance\Inheritance\obj\Debug\net5.0\Inheritance.csproj.AssemblyReference.cache
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Inheritance\Inheritance\obj\Debug\net5.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Inheritance\Inheritance\obj\Debug\net5.0\Inheritance.AssemblyInfoInputs.cache
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Inheritance\Inheritance\obj\Debug\net5.0\Inheritance.AssemblyInfo.cs
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Inheritance\Inheritance\obj\Debug\net5.0\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Inheritance\Inheritance\bin\Debug\net5.0\Inheritance.exe
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Inheritance\Inheritance\bin\Debug\net5.0\Inheritance.deps.json
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Inheritance\Inheritance\bin\Debug\net5.0\Inheritance.runtimeconfig.json
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Inheritance\Inheritance\bin\Debug\net5.0\Inheritance.runtimeconfig.dev.json
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Inheritance\Inheritance\bin\Debug\net5.0\Inheritance.dll
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Inheritance\Inheritance\bin\Debug\net5.0\ref\Inheritance.dll
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Inheritance\Inheritance\bin\Debug\net5.0\Inheritance.pdb
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Inheritance\Inheritance\obj\Debug\net5.0\Inheritance.dll
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Inheritance\Inheritance\obj\Debug\net5.0\ref\Inheritance.dll
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Inheritance\Inheritance\obj\Debug\net5.0\Inheritance.pdb
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Inheritance\Inheritance\obj\Debug\net5.0\Inheritance.genruntimeconfig.cache

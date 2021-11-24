@@ -1,0 +1,16 @@
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Inheritance\Vehicle\Vehicle\obj\Debug\net5.0\Vehicle.csproj.AssemblyReference.cache
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Inheritance\Vehicle\Vehicle\obj\Debug\net5.0\Vehicle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Inheritance\Vehicle\Vehicle\obj\Debug\net5.0\Vehicle.AssemblyInfoInputs.cache
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Inheritance\Vehicle\Vehicle\obj\Debug\net5.0\Vehicle.AssemblyInfo.cs
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Inheritance\Vehicle\Vehicle\obj\Debug\net5.0\Vehicle.csproj.CoreCompileInputs.cache
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Inheritance\Vehicle\Vehicle\bin\Debug\net5.0\Vehicle.exe
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Inheritance\Vehicle\Vehicle\bin\Debug\net5.0\Vehicle.deps.json
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Inheritance\Vehicle\Vehicle\bin\Debug\net5.0\Vehicle.runtimeconfig.json
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Inheritance\Vehicle\Vehicle\bin\Debug\net5.0\Vehicle.runtimeconfig.dev.json
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Inheritance\Vehicle\Vehicle\bin\Debug\net5.0\Vehicle.dll
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Inheritance\Vehicle\Vehicle\bin\Debug\net5.0\ref\Vehicle.dll
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Inheritance\Vehicle\Vehicle\bin\Debug\net5.0\Vehicle.pdb
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Inheritance\Vehicle\Vehicle\obj\Debug\net5.0\Vehicle.dll
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Inheritance\Vehicle\Vehicle\obj\Debug\net5.0\ref\Vehicle.dll
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Inheritance\Vehicle\Vehicle\obj\Debug\net5.0\Vehicle.pdb
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Inheritance\Vehicle\Vehicle\obj\Debug\net5.0\Vehicle.genruntimeconfig.cache
