@@ -1,0 +1,16 @@
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\FirstAssignment\FirstAssignment\bin\Debug\net5.0\FirstAssignment.exe
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\FirstAssignment\FirstAssignment\bin\Debug\net5.0\FirstAssignment.deps.json
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\FirstAssignment\FirstAssignment\bin\Debug\net5.0\FirstAssignment.runtimeconfig.json
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\FirstAssignment\FirstAssignment\bin\Debug\net5.0\FirstAssignment.runtimeconfig.dev.json
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\FirstAssignment\FirstAssignment\bin\Debug\net5.0\FirstAssignment.dll
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\FirstAssignment\FirstAssignment\bin\Debug\net5.0\ref\FirstAssignment.dll
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\FirstAssignment\FirstAssignment\bin\Debug\net5.0\FirstAssignment.pdb
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\FirstAssignment\FirstAssignment\obj\Debug\net5.0\FirstAssignment.csproj.AssemblyReference.cache
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\FirstAssignment\FirstAssignment\obj\Debug\net5.0\FirstAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\FirstAssignment\FirstAssignment\obj\Debug\net5.0\FirstAssignment.AssemblyInfoInputs.cache
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\FirstAssignment\FirstAssignment\obj\Debug\net5.0\FirstAssignment.AssemblyInfo.cs
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\FirstAssignment\FirstAssignment\obj\Debug\net5.0\FirstAssignment.csproj.CoreCompileInputs.cache
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\FirstAssignment\FirstAssignment\obj\Debug\net5.0\FirstAssignment.dll
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\FirstAssignment\FirstAssignment\obj\Debug\net5.0\ref\FirstAssignment.dll
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\FirstAssignment\FirstAssignment\obj\Debug\net5.0\FirstAssignment.pdb
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\FirstAssignment\FirstAssignment\obj\Debug\net5.0\FirstAssignment.genruntimeconfig.cache

@@ -1,0 +1,7 @@
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Technical Interview\SwapNum\SwapNum\bin\Debug\SwapNum.exe.config
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Technical Interview\SwapNum\SwapNum\bin\Debug\SwapNum.exe
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Technical Interview\SwapNum\SwapNum\bin\Debug\SwapNum.pdb
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Technical Interview\SwapNum\SwapNum\obj\Debug\SwapNum.csproj.AssemblyReference.cache
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Technical Interview\SwapNum\SwapNum\obj\Debug\SwapNum.csproj.CoreCompileInputs.cache
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Technical Interview\SwapNum\SwapNum\obj\Debug\SwapNum.exe
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Technical Interview\SwapNum\SwapNum\obj\Debug\SwapNum.pdb
