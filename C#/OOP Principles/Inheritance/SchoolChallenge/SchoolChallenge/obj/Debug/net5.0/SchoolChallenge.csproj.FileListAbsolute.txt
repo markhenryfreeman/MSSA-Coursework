@@ -1,0 +1,16 @@
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\Challenges\SchoolChallenge\SchoolChallenge\obj\Debug\net5.0\SchoolChallenge.csproj.AssemblyReference.cache
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\Challenges\SchoolChallenge\SchoolChallenge\obj\Debug\net5.0\SchoolChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\Challenges\SchoolChallenge\SchoolChallenge\obj\Debug\net5.0\SchoolChallenge.AssemblyInfoInputs.cache
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\Challenges\SchoolChallenge\SchoolChallenge\obj\Debug\net5.0\SchoolChallenge.AssemblyInfo.cs
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\Challenges\SchoolChallenge\SchoolChallenge\obj\Debug\net5.0\SchoolChallenge.csproj.CoreCompileInputs.cache
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\Challenges\SchoolChallenge\SchoolChallenge\bin\Debug\net5.0\SchoolChallenge.exe
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\Challenges\SchoolChallenge\SchoolChallenge\bin\Debug\net5.0\SchoolChallenge.deps.json
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\Challenges\SchoolChallenge\SchoolChallenge\bin\Debug\net5.0\SchoolChallenge.runtimeconfig.json
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\Challenges\SchoolChallenge\SchoolChallenge\bin\Debug\net5.0\SchoolChallenge.runtimeconfig.dev.json
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\Challenges\SchoolChallenge\SchoolChallenge\bin\Debug\net5.0\SchoolChallenge.dll
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\Challenges\SchoolChallenge\SchoolChallenge\bin\Debug\net5.0\ref\SchoolChallenge.dll
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\Challenges\SchoolChallenge\SchoolChallenge\bin\Debug\net5.0\SchoolChallenge.pdb
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\Challenges\SchoolChallenge\SchoolChallenge\obj\Debug\net5.0\SchoolChallenge.dll
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\Challenges\SchoolChallenge\SchoolChallenge\obj\Debug\net5.0\ref\SchoolChallenge.dll
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\Challenges\SchoolChallenge\SchoolChallenge\obj\Debug\net5.0\SchoolChallenge.pdb
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\Challenges\SchoolChallenge\SchoolChallenge\obj\Debug\net5.0\SchoolChallenge.genruntimeconfig.cache
