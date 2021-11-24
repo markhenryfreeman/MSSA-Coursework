@@ -1,0 +1,16 @@
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\SecondAssignment\MethodsChallenge\MethodsChallenge\obj\Debug\net5.0\MethodsChallenge.csproj.AssemblyReference.cache
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\SecondAssignment\MethodsChallenge\MethodsChallenge\obj\Debug\net5.0\MethodsChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\SecondAssignment\MethodsChallenge\MethodsChallenge\obj\Debug\net5.0\MethodsChallenge.AssemblyInfoInputs.cache
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\SecondAssignment\MethodsChallenge\MethodsChallenge\obj\Debug\net5.0\MethodsChallenge.AssemblyInfo.cs
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\SecondAssignment\MethodsChallenge\MethodsChallenge\obj\Debug\net5.0\MethodsChallenge.csproj.CoreCompileInputs.cache
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\SecondAssignment\MethodsChallenge\MethodsChallenge\bin\Debug\net5.0\MethodsChallenge.exe
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\SecondAssignment\MethodsChallenge\MethodsChallenge\bin\Debug\net5.0\MethodsChallenge.deps.json
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\SecondAssignment\MethodsChallenge\MethodsChallenge\bin\Debug\net5.0\MethodsChallenge.runtimeconfig.json
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\SecondAssignment\MethodsChallenge\MethodsChallenge\bin\Debug\net5.0\MethodsChallenge.runtimeconfig.dev.json
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\SecondAssignment\MethodsChallenge\MethodsChallenge\bin\Debug\net5.0\MethodsChallenge.dll
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\SecondAssignment\MethodsChallenge\MethodsChallenge\bin\Debug\net5.0\ref\MethodsChallenge.dll
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\SecondAssignment\MethodsChallenge\MethodsChallenge\bin\Debug\net5.0\MethodsChallenge.pdb
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\SecondAssignment\MethodsChallenge\MethodsChallenge\obj\Debug\net5.0\MethodsChallenge.dll
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\SecondAssignment\MethodsChallenge\MethodsChallenge\obj\Debug\net5.0\ref\MethodsChallenge.dll
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\SecondAssignment\MethodsChallenge\MethodsChallenge\obj\Debug\net5.0\MethodsChallenge.pdb
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\SecondAssignment\MethodsChallenge\MethodsChallenge\obj\Debug\net5.0\MethodsChallenge.genruntimeconfig.cache
