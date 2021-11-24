@@ -1,0 +1,16 @@
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\Challenges\IceCream\IceCream\IceCream\bin\Debug\net5.0\IceCream.exe
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\Challenges\IceCream\IceCream\IceCream\bin\Debug\net5.0\IceCream.deps.json
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\Challenges\IceCream\IceCream\IceCream\bin\Debug\net5.0\IceCream.runtimeconfig.json
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\Challenges\IceCream\IceCream\IceCream\bin\Debug\net5.0\IceCream.runtimeconfig.dev.json
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\Challenges\IceCream\IceCream\IceCream\bin\Debug\net5.0\IceCream.dll
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\Challenges\IceCream\IceCream\IceCream\bin\Debug\net5.0\ref\IceCream.dll
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\Challenges\IceCream\IceCream\IceCream\bin\Debug\net5.0\IceCream.pdb
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\Challenges\IceCream\IceCream\IceCream\obj\Debug\net5.0\IceCream.csproj.AssemblyReference.cache
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\Challenges\IceCream\IceCream\IceCream\obj\Debug\net5.0\IceCream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\Challenges\IceCream\IceCream\IceCream\obj\Debug\net5.0\IceCream.AssemblyInfoInputs.cache
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\Challenges\IceCream\IceCream\IceCream\obj\Debug\net5.0\IceCream.AssemblyInfo.cs
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\Challenges\IceCream\IceCream\IceCream\obj\Debug\net5.0\IceCream.csproj.CoreCompileInputs.cache
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\Challenges\IceCream\IceCream\IceCream\obj\Debug\net5.0\IceCream.dll
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\Challenges\IceCream\IceCream\IceCream\obj\Debug\net5.0\ref\IceCream.dll
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\Challenges\IceCream\IceCream\IceCream\obj\Debug\net5.0\IceCream.pdb
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\Challenges\IceCream\IceCream\IceCream\obj\Debug\net5.0\IceCream.genruntimeconfig.cache

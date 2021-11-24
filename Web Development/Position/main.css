@@ -1,0 +1,36 @@
+﻿body {
+    background:red;
+}
+
+.firstDiv{
+    width:100%;
+    background: blue;
+    height:1000px;
+}
+
+.secondDiv {
+    width: 100%;
+    background: yellow;
+    height: 200px;
+    position: fixed;
+    top: 0px;
+}
+
+.cursiveP {
+    font-family: "'Qahiri', sans-serif";
+}
+
+.thirdDiv {
+    width: 100%;
+    background: white;
+    height: 300px;
+}
+
+.relativeDiv {
+    width: 200px;
+    height: 200px;
+    background: green;
+    position: relative;
+    left:50px;
+    top: 10px;
+}
