@@ -1,0 +1,24 @@
+﻿<Window x:Class="Employee.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Employee"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="400" Width="800">
+    <Grid>
+        <ListBox ItemsSource="{Binding Patient}">
+        <ListBox.ItemTemplate>
+            <DataTemplate>
+                    <DockPanel>
+                        <Image Source="https://pngarts.com/files/13/Cash-PNG-Background.png" Width="30" Height="30" Margin="0,0,5,0"/>
+                        <StackPanel DockPanel.Dock="Right">
+                            <TextBlock Text="{Binding FirstName}"></TextBlock>
+                            <TextBlock Text="{Binding LastName}"></TextBlock>
+                    </StackPanel>
+                </DockPanel>
+                </DataTemplate>
+        </ListBox.ItemTemplate>
+        </ListBox>
+    </Grid>
+</Window>
