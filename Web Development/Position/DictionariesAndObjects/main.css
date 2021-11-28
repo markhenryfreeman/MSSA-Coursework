@@ -1,0 +1,16 @@
+body{
+    background:cornsilk;
+}
+
+.direction{
+    text-align:center; 
+    width:90%; 
+    margin: 10px auto;
+}
+
+.container{
+    width:100%;
+    border-style: solid;
+    border: darkblue;
+    padding: 20px 20px;
+}

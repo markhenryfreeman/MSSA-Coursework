@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <link rel="stylesheet" href="main.css"/>
+    <script src="main.js"></script>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div class="mainContainer">
+        <h1>Using Cognitive services by Microsoft Azure</h1>
+        <div class="containerService">
+            <h2>Text Analytics</h2>
+            <div class="containerInput">
+                <label>Provide the text:</label>
+                <input type="text" name="name" value="" id="textToAnalyze"/>
+            </div>
+            <button class="analyze" onclick="analyzeText();"> Analyze Text</button>
+        </div>
+        <div class="containerService">
+            <h2>Container Vision</h2>
+            <div class="containerInput">
+                <label>Provide the URL of the image:</label>
+                <input type="text" name="name" value="" id="urlImgToAnalyze"/>
+            </div>
+            <button class="analyze" onclick="analyzeImg();"> Analyze Image</button>
+    </div>
+    
+    
+</body>
+</html>

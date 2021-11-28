@@ -1,0 +1,30 @@
+body {
+    background: gray;
+    margin: 0px;
+    }
+
+.container {
+    width:100%;
+    background: black;
+    padding: 20px 0px;
+}
+
+.container .item {
+    width: 90%;
+    height: 100px;
+    background: white;
+    margin: 10px auto;
+
+}
+
+@media screen and (min-width: 768px) {
+    
+    .container{
+        text-align: center;
+    }
+    .container .item{
+        background: rgb(65, 40, 179);
+        display: inline-block;
+        width: 30%;
+    }
+}

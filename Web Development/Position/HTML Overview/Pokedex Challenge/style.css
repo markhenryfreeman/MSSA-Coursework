@@ -1,0 +1,115 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    background-position: center;
+    text-align: center;
+    }
+
+.lookpretty {
+    align-items: center;
+    }
+
+.pokedex-body {
+    margin-top: 15px;
+    margin-bottom: 100px;
+    display: grid;
+    grid-template-columns: 1fr;
+    height: 600px;
+    width: 300px;  
+    background-color: rgb(161, 36, 36);
+    border: 4px solid black;
+    border-radius: 10px 10px 10px 10px;
+}
+.pokedex-screen {
+    display: flex;
+    flex-flow: column;
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+    height: 85%;
+    width: 80%;
+    background-color: white;
+    border: 2px outset black;
+    border-radius: 50%;
+    margin-top: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5%;
+}
+
+#image{
+transform: scale(1.1);
+animation-name: bounce;
+animation-duration: 4s;
+animation-iteration-count: infinite;
+}
+
+#image:hover {
+    scale: 1.3em;;
+}
+
+.pokemon-search {
+    display: grid;
+    width: 85%;
+    height: 75%;
+    margin: auto;
+    line-height: 2em;
+    margin-top: 5%;
+}
+.pokemon-name {
+    width: 100%;
+    font-weight: bolder;
+    font-variant: small-caps;
+    text-align: center;
+    font-size: 30pt;
+}
+
+p {
+    display: block;
+    font-size: 25pt;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    text-align: center;
+}
+
+.pokemon-search button {
+    background-color: gold;
+    border: 2px outset black;
+    border-radius: 10px;
+    font-family: monospace;
+    font-size: larger;
+    font-weight: bolder;
+    font-variant: small-caps;
+    margin: 5px;
+    color: black;
+    line-height: 2em;
+}
+
+.pokemon-search-box {
+    background-color: white;
+    border: 2px inset black;
+    border-radius: 10px;
+    font-family: monospace;
+    font-size: large;
+    font-weight: bolder;
+}
+.pokemon-moves{  
+    background-color:black;
+    border: 2px inset white;
+    border-radius: 50px;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 2%;
+    color:white;
+    text-align: center;  
+    text-align-last: center;
+    font-variant: small-caps;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:large;
+    font-weight:italic; 
+    height: 160px;
+    align-self: flex-end;
+}

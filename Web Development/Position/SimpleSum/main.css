@@ -1,0 +1,34 @@
+body {
+    background: rgb(246, 245, 248);
+}
+
+div.mainContainer {
+    background:gray;
+    width: 25%;
+    padding: 10px;
+}
+
+div.enterData {
+    margin: 10px 0px;
+    background: rgb(203, 201, 211);
+    padding: 5px 0px;
+    padding-left: 10px;
+}
+
+div.enterData label {
+    width: 100px;
+    display: inline-block;
+}
+
+div.buttonContainer {
+    text-align: center;
+    }
+
+div.buttonContainer button {
+        background: black;
+        color: white;
+        border: 0px;
+        padding: 8px 5px;
+        border-radius: 0px;
+        box-shadow: 0px 0px 5px black;
+    }
